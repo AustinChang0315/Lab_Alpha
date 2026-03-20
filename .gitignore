@@ -1,0 +1,5 @@
+.venv/
+.uv/
+uv-install.sh
+result.txt
+
